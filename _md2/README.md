@@ -2,7 +2,7 @@
  * @Author: itgoyo itgoyo@foxmail.com
  * @Date: 2022-12-08 16:51:41
  * @LastEditors: itgoyo itgoyo@foxmail.com
- * @LastEditTime: 2022-12-09 10:12:09
+ * @LastEditTime: 2022-12-09 10:35:56
  * @FilePath: /undefined/Users/itgoyo/Documents/同步空间/SyncBaidu/Article/awesome-docker/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -12,36 +12,36 @@
 -   [面板类](#%E9%9D%A2%E6%9D%BF%E7%B1%BB)
     -   [Portainer](#portainer)
     -   [CasaOS](#casaos)
-    -   [脚本类](#%E8%84%9A%E6%9C%AC%E7%B1%BB)
-        -   [qinglong](#qinglong)
-        -   [qiandao](#qiandao)
 
+-   [脚本类](#%E8%84%9A%E6%9C%AC%E7%B1%BB)
+    -   [qinglong](#qinglong)
+    -   [qiandao](#qiandao)
     -   [下载类](#%E4%B8%8B%E8%BD%BD%E7%B1%BB)
-        -   [qBittorrent](#qbittorrent)
-        -   [Transmission](#transmission)
+    -   [qBittorrent](#qbittorrent)
+    -   [Transmission](#transmission)
 
-    -   [影音类](#%E5%BD%B1%E9%9F%B3%E7%B1%BB)
-        -   [EMBY](#emby)
-        -   [Jellyfin](#jellyfin)
+-   [影音类](#%E5%BD%B1%E9%9F%B3%E7%B1%BB)
+    -   [EMBY](#emby)
+    -   [Jellyfin](#jellyfin)
 
-    -   [自动化类](#%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B1%BB)
-        -   [bililive-go（自动录制）](#bililive-go%E8%87%AA%E5%8A%A8%E5%BD%95%E5%88%B6)
+-   [自动化类](#%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B1%BB)
+    -   [bililive-go（自动录制）](#bililive-go%E8%87%AA%E5%8A%A8%E5%BD%95%E5%88%B6)
 
-    -   [实用工具类](#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB)
-        -   [SpeedTest （测速）](#speedtest-%E6%B5%8B%E9%80%9F)
-        -   [Syncthing （同步）](#syncthing-%E5%90%8C%E6%AD%A5)
-        -   [Heimdall (导航)](#heimdall-%E5%AF%BC%E8%88%AA-)
+-   [实用工具类](#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB)
+    -   [SpeedTest （测速）](#speedtest-%E6%B5%8B%E9%80%9F)
+    -   [Syncthing （同步）](#syncthing-%E5%90%8C%E6%AD%A5)
+    -   [Heimdall (导航)](#heimdall-%E5%AF%BC%E8%88%AA-)
 
-    -   [电子书](#%E7%94%B5%E5%AD%90%E4%B9%A6)
-        -   [BookBrowser](#bookbrowser)
-        -   [Calibre-Web](#calibre-web)
-        -   [TaleBook](#talebook)
+-   [电子书](#%E7%94%B5%E5%AD%90%E4%B9%A6)
+    -   [BookBrowser](#bookbrowser)
+    -   [Calibre-Web](#calibre-web)
+    -   [TaleBook](#talebook)
 
 ## 面板类
 
 ### [Portainer](https://github.com/portainer/portainer)
 
-是一款开源的 Docker 管理工具，它可以让用户通过 Web 界面管理 Docker 环境。它提供了一个友好的用户界面，可以让用户轻松管理容器、镜像和网络。Portainer 还支持多种操作系统，包括 Windows、macOS 和 Linux。它可以让用户快速部署和管理 Docker 环境，提高工作效率。
+是一款开源的 Docker 管理工具，它可以让用户通过 Web 界面管理 Docker 环境。它提供了一个友好的用户界面，可以让用户轻松管理容器、镜像和网络。Portainer 还支持多种操作系统，包括 Windows、macOS 和 Linux。它可以让用户快速部署和管理 Docker 环境，可以极大提高工作效率。
 ![](https://cdn.jsdelivr.net/gh/itgoyo/awesome-docker@_md2zhihu_awesome-docker_d1f91db9/README/bd0d841e278bbb45-portainer.png)
 
 ### [CasaOS](https://github.com/IceWhaleTech/CasaOS)

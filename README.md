@@ -2,7 +2,7 @@
  * @Author: itgoyo itgoyo@foxmail.com
  * @Date: 2022-12-08 16:51:41
  * @LastEditors: itgoyo itgoyo@foxmail.com
- * @LastEditTime: 2022-12-09 10:12:09
+ * @LastEditTime: 2022-12-09 10:35:56
  * @FilePath: /undefined/Users/itgoyo/Documents/同步空间/SyncBaidu/Article/awesome-docker/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -34,7 +34,7 @@
 
 ### [Portainer](https://github.com/portainer/portainer)
 
-是一款开源的 Docker 管理工具，它可以让用户通过 Web 界面管理 Docker 环境。它提供了一个友好的用户界面，可以让用户轻松管理容器、镜像和网络。Portainer 还支持多种操作系统，包括 Windows、macOS 和 Linux。它可以让用户快速部署和管理 Docker 环境，提高工作效率。
+是一款开源的 Docker 管理工具，它可以让用户通过 Web 界面管理 Docker 环境。它提供了一个友好的用户界面，可以让用户轻松管理容器、镜像和网络。Portainer 还支持多种操作系统，包括 Windows、macOS 和 Linux。它可以让用户快速部署和管理 Docker 环境，可以极大提高工作效率。
 ![](./Picture/portainer.png)
 
 ### [CasaOS](https://github.com/IceWhaleTech/CasaOS)

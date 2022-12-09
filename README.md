@@ -2,19 +2,19 @@
  * @Author: itgoyo itgoyo@foxmail.com
  * @Date: 2022-12-08 16:51:41
  * @LastEditors: itgoyo itgoyo@foxmail.com
- * @LastEditTime: 2022-12-09 09:52:58
+ * @LastEditTime: 2022-12-09 10:12:09
  * @FilePath: /undefined/Users/itgoyo/Documents/同步空间/SyncBaidu/Article/awesome-docker/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 # 整理全网有趣好玩的Docker
 
-* [面板类](#%E9%9D%A2%E6%9D%BF%E7%B1%BB)
-  * [Portainer](#portainer)
-  * [CasaOS](#casaos)
+  * [面板类](#%E9%9D%A2%E6%9D%BF%E7%B1%BB)
+    * [Portainer](#portainer)
+    * [CasaOS](#casaos)
   * [脚本类](#%E8%84%9A%E6%9C%AC%E7%B1%BB)
     * [qinglong](#qinglong)
     * [qiandao](#qiandao)
-  * [下载类](#%E4%B8%8B%E8%BD%BD%E7%B1%BB)
+    * [下载类](#%E4%B8%8B%E8%BD%BD%E7%B1%BB)
     * [qBittorrent](#qbittorrent)
     * [Transmission](#transmission)
   * [影音类](#%E5%BD%B1%E9%9F%B3%E7%B1%BB)
@@ -47,13 +47,13 @@ Zimaboard家出品的一个Docker管理面板，UI还有功能比较好看实用
 ### [qinglong](https://github.com/whyour/qinglong)
 
 自动完成JD各种任务，然后自动获取京豆。
-![](./Picture/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF.png)
+![](./Picture/青龙面板.png)
 
 ### [qiandao](https://github.com/qiandao-today/qiandao)
 
 一键帮你签到各大网站，再也不用每天都手动登录网页或者是App点击签到了。
 
-![](./Picture/%E7%AD%BE%E5%88%B0.png)
+![](./Picture/签到.png)
 
 ## 下载类
 
@@ -84,6 +84,7 @@ Zimaboard家出品的一个Docker管理面板，UI还有功能比较好看实用
 ### [bililive-go（自动录制）](https://github.com/hr3lxphr6j/bililive-go)
 
 是一个支持多种直播平台的直播录制工具,全自动化进行录制，无需人为录制操作。
+
 
 **支持网站**
 <table>

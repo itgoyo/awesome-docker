@@ -2,7 +2,7 @@
  * @Author: itgoyo itgoyo@foxmail.com
  * @Date: 2022-12-08 16:51:41
  * @LastEditors: itgoyo itgoyo@foxmail.com
- * @LastEditTime: 2022-12-09 09:48:15
+ * @LastEditTime: 2022-12-09 09:52:58
  * @FilePath: /undefined/Users/itgoyo/Documents/同步空间/SyncBaidu/Article/awesome-docker/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -60,12 +60,12 @@ Zimaboard家出品的一个Docker管理面板，UI还有功能比较好看实用
 ### [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
 是一款开源的 BitTorrent 客户端，它允许用户通过 BitTorrent 协议进行文件下载和共享。它与 Transmission 类似，提供了一个简单易用的界面，可以让用户轻松管理多个下载任务。qBittorrent 的特色之一是它支持多种语言，并且拥有丰富的插件，可以让用户根据自己的需要定制软件功能。它支持多种操作系统，包括 Windows、macOS 和 Linux。
-![](./Picture/qBittorrent.png.png)
+![](./Picture/qBittorrent.png)
 
 ### [Transmission](https://github.com/transmission/transmission)
 
 是一款开源的 BitTorrent 客户端，它允许用户通过 BitTorrent 协议进行文件下载和共享。它提供了一个简单易用的界面，可以让用户轻松管理多个下载任务。Transmission 支持多种操作系统，包括 Windows、macOS 和 Linux。
-![](./Picture/Transmission.png.png)
+![](./Picture/Transmission.png)
 
 ## 影音类
 
@@ -77,11 +77,97 @@ Zimaboard家出品的一个Docker管理面板，UI还有功能比较好看实用
 ### [Jellyfin](https://github.com/jellyfin/jellyfin)
 
 是一款开源的媒体服务器软件，可以将电脑上的音乐、视频和图片文件转换为流媒体，供家庭网络内的设备播放。它与 EMBY 类似，支持多种媒体格式，并提供丰富的浏览和管理功能。不同的是，Jellyfin 是完全开源的，用户可以根据自己的需要定制软件功能。它支持多种操作系统，包括 Windows、macOS 和 Linux。
-![](./Picture/jellyfin.png)
+![](./Picture/jellyfin.jpeg)
 
 ## 自动化类
 
 ### [bililive-go（自动录制）](https://github.com/hr3lxphr6j/bililive-go)
+
+是一个支持多种直播平台的直播录制工具,全自动化进行录制，无需人为录制操作。
+
+**支持网站**
+<table>
+    <tr align="center">
+        <th>站点</th>
+        <th>url</th>
+        <th>支持情况</th>
+    </tr>
+    <tr align="center">
+        <td>Acfun直播</td>
+        <td>live.acfun.cn</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>哔哩哔哩直播</td>
+        <td>live.bilibili.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>战旗直播</td>
+        <td>www.zhanqi.tv</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>斗鱼直播</td>
+        <td>www.douyu.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>火猫直播</td>
+        <td>www.huomao.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>龙珠直播</td>
+        <td>longzhu.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>虎牙直播</td>
+        <td>www.huya.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>CC直播</td>
+        <td>cc.163.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>一直播</td>
+        <td>www.yizhibo.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>twitch</td>
+        <td>www.twitch.tv</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>OPENREC</td>
+        <td>www.openrec.tv</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>企鹅电竞</td>
+        <td>egame.qq.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>浪live</td>
+        <td>play.lang.live & www.lang.live</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>花椒</td>
+        <td>www.huajiao.com</td>
+        <td>滋瓷</td>
+    </tr>
+    <tr align="center">
+        <td>抖音直播</td>
+        <td>live.douyin.com</td>
+        <td>TODO</td>
+    </tr>
+</table>
 
 ## 实用工具类
 
